@@ -1,1 +1,46 @@
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Archivos y directorios de dependencias
+node_modules/
+bower_components/
+vendor/
+
+# Archivos de compilación
+dist/
+build/
+*.log
+*.tmp
+
+# Archivos generados por el sistema
+*.pid
+*.seed
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de entornos virtuales
+.env
+*.env.local
+*.env.*.local
+.venv/
+venv/
+env/
+env.bak/
+env.old/
+
+# Archivos de compilación de Java
+*.class
+*.jar
+*.war
+*.ear
 target

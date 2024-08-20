@@ -7,6 +7,6 @@ public class Main {
         Person person = new Person();
         person.setName("Chico de las fantasias");
         System.out.println("Hola, que tal, soy el " + person.getName());
-        System.out.println("Tu fiel admirador");
+        System.out.println("Tu fiel admirador, hoy es noche de sexo");
     }
 }
